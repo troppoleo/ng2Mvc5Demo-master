@@ -9,6 +9,7 @@
         {{ skl }}
       </li>
     </ul>
+    <h1>{{ myVar }}</h1>
   `
 })
 export class AppComponent {
@@ -16,3 +17,7 @@ export class AppComponent {
     skills = ['MVC 5', 'Angular 2', 'TypeScript', 'Visual Studio 2015'];
     myskills = this.skills[1];
 }
+
+
+
+

@@ -184,6 +184,7 @@
   <ItemGroup>
     <TypeScriptCompile Include="tsScripts\app.ts" />
     <TypeScriptCompile Include="tsScripts\boot.ts" />
+    <TypeScriptCompile Include="tsScripts\file1.ts" />
     <TypeScriptCompile Include="tsScripts\main.ts" />
   </ItemGroup>
   <ItemGroup>
